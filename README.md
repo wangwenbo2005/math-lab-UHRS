@@ -2,16 +2,6 @@
 
 实验均为独立HTML文件，无需安装软件或联网加载依赖。可用浏览器打开本地文件，也可通过GitHub Pages在线使用。
 
-## 文件说明
-
-- index.html：网站首页，包含实验入口和简易教程。
-- curvature.html：第三章，平面曲线曲率与曲率圆实验。
-- sequence-limit.html：第一章，数列极限 ε–N 实验。
-- README.md：仓库说明及使用教程。
-- DEPLOY.md：GitHub Pages 发布步骤。
-
-在线网址启用后，在浏览器地址栏输入 https://你的用户名.github.io/math-lab/ 。请替换用户名；若仓库名称不是 math-lab，也要替换仓库名。仓库里的 HTML 文件链接通常显示源码，在线演示请使用 GitHub Pages 网址。
-
 ## 实验一：数列极限 ε–N
 
 1. 打开 sequence-limit.html，默认数列是 1/n，候选极限 a=0。
